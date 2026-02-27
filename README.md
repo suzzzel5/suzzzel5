@@ -1,25 +1,50 @@
-# 💫 About Me:
-👋 Hi, I'm Sujal Maharjan<br><br>I am an IT undergraduate passionate about Data Analysis and problem-solving.<br>I enjoy working with Python, NumPy, and SQL to explore datasets and extract meaningful insights.<br>Currently, I am strengthening my foundations in data cleaning, data visualization, and statistical thinking
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sujal%20Maharjan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=suzzzel5">
+    <img src="https://komarev.com/ghpvc/?username=suzzzel5&label=Profile%20views&color=00FFFF&style=flat-square" alt="suzzzel5's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- Hi, I'm Sujal Maharjan<br><br>I am an IT undergraduate passionate about Data Analysis and problem solving.<br>Ienjoy working with Python, NumPy, and SQL to explore datasets and extract meaningful insights.<br>Currently, I am strengthening my foundations in data cleaning, data visualization, and statistical thinking
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/suzalmaharjan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sujalmhz11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suzal_mhz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-maharjan-635675251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maharjansujal0@gmail.com) 
+## 🧠 My Focus Areas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Insight Generation
 
-📌 Focus Areas  
-🔍 Data Cleaning  
-📊 Exploratory Data Analysis (EDA)  
-📈 Trend & Correlation Analysis  
-💡 Business Insights  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=suzzzel5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-             ![](https://nirzak-streak-stats.vercel.app/?user=suzzzel5&theme=dark&hide_border=false)<br/>
-             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suzzzel5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suzzzel5&theme=github_dark&hide_border=true&cache_seconds=86400" alt="suzzzel5's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=suzzzel5&theme=github_dark&radius=10" alt="suzzzel5's Activity Graph" />
+</p>
 
----
 
-## 🚀 Currently Learning  
-🗄 SQL • 📊 Power BI • 📚 Advanced Analytics  
-[![](https://visitcount.itsvg.in/api?id=suzzzel5&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/suzzzel5">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suzzzel5&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/sujal-maharjan-635675251/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Sujal Maharjan's LinkedIn"/></a> <a href="mailto:maharjansujal0@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Sujal Maharjan's Email"/></a></p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
