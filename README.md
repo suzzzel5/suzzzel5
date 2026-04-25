@@ -12,6 +12,7 @@ Hi, I'm Sujal Maharjan<br><br>I am a highly motivated IT student with a strong p
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=suzzzel5&theme=github_dark&hide_border=true&cache_seconds=86400" alt="suzzzel5's GitHub Streak" width="49%" />
+  
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=suzzzel5&theme=github_dark&radius=10" alt="suzzzel5's Activity Graph" />
