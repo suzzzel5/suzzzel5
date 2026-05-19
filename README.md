@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sujal%20Maharjan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-**# About Me:**
+**About Me**
+
 Hi, I'm Sujal Maharjan<br><br>I am a highly motivated IT student with a strong passion for data analysis and analytical problem-solving. I enjoy working with data to uncover patterns, generate insights, and support decision-making. My goal is to build a solid foundation in data analytics and grow into a professional who can solve real-world business problems using data.<br>
 
-** Socials:**
+**Socials**
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suzal_mhz/) 
 
-**# Tech Stack:**
+**Tech Stack:**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **## GitHub Stats & Trophies**
