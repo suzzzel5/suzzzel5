@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sujal%20Maharjan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-**# About Me:**
+** About Me:**
 Hi, I'm Sujal Maharjan<br><br>I am a highly motivated IT student with a strong passion for data analysis and analytical problem-solving. I enjoy working with data to uncover patterns, generate insights, and support decision-making. My goal is to build a solid foundation in data analytics and grow into a professional who can solve real-world business problems using data.<br>
 
-**## Socials:**
+** Socials:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suzal_mhz/) 
 
 **# Tech Stack:**
